@@ -1,13 +1,5 @@
 [general]
-bar_width = 9
+bar_width = 7
 
-[input]
-method = alsa
-source = hw:PCH,0
-
-[color]
-gradient_count = 4
-gradient_color_1 = '#ff3399'
-gradient_color_2 = '#0099ff'
-gradient_color_3 = '#8800DD'
-gradient_color_4 = '#8800DD'
+[smoothing]
+integral = 70
