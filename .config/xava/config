@@ -242,6 +242,7 @@
 
 
 [output]
+method = x11_opengl
 
 # Refer to https://github.com/nikp123/xava/tree/unstable#output-modes for
 # further detail
