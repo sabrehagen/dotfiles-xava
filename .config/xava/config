@@ -179,6 +179,8 @@
 #
 
 [input]
+method = pulseaudio
+source = alsa_input.pci-0000_00_1f.3.analog-stereo
 
 # Audio capturing method. Possible methods are the ones listed below.
 # If one doesn't work, it might not be supported by your system or it just
